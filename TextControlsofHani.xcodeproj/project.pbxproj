@@ -1,0 +1,585 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C22650AB21B65F07004F8532 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22650AA21B65F07004F8532 /* AppDelegate.swift */; };
+		C22650AD21B65F07004F8532 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22650AC21B65F07004F8532 /* ViewController.swift */; };
+		C22650B021B65F07004F8532 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C22650AE21B65F07004F8532 /* Main.storyboard */; };
+		C22650B221B65F08004F8532 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C22650B121B65F08004F8532 /* Assets.xcassets */; };
+		C22650B521B65F08004F8532 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C22650B321B65F08004F8532 /* LaunchScreen.storyboard */; };
+		C22650C021B65F08004F8532 /* TextControlsofHaniTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22650BF21B65F08004F8532 /* TextControlsofHaniTests.swift */; };
+		C22650CB21B65F08004F8532 /* TextControlsofHaniUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22650CA21B65F08004F8532 /* TextControlsofHaniUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C22650BC21B65F08004F8532 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C226509F21B65F07004F8532 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C22650A621B65F07004F8532;
+			remoteInfo = TextControlsofHani;
+		};
+		C22650C721B65F08004F8532 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C226509F21B65F07004F8532 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C22650A621B65F07004F8532;
+			remoteInfo = TextControlsofHani;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		C22650A721B65F07004F8532 /* TextControlsofHani.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TextControlsofHani.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C22650AA21B65F07004F8532 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C22650AC21B65F07004F8532 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C22650AF21B65F07004F8532 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C22650B121B65F08004F8532 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C22650B421B65F08004F8532 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C22650B621B65F08004F8532 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C22650BB21B65F08004F8532 /* TextControlsofHaniTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TextControlsofHaniTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C22650BF21B65F08004F8532 /* TextControlsofHaniTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextControlsofHaniTests.swift; sourceTree = "<group>"; };
+		C22650C121B65F08004F8532 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C22650C621B65F08004F8532 /* TextControlsofHaniUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TextControlsofHaniUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C22650CA21B65F08004F8532 /* TextControlsofHaniUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextControlsofHaniUITests.swift; sourceTree = "<group>"; };
+		C22650CC21B65F08004F8532 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C22650A421B65F07004F8532 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C22650B821B65F08004F8532 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C22650C321B65F08004F8532 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C226509E21B65F07004F8532 = {
+			isa = PBXGroup;
+			children = (
+				C22650A921B65F07004F8532 /* TextControlsofHani */,
+				C22650BE21B65F08004F8532 /* TextControlsofHaniTests */,
+				C22650C921B65F08004F8532 /* TextControlsofHaniUITests */,
+				C22650A821B65F07004F8532 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C22650A821B65F07004F8532 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C22650A721B65F07004F8532 /* TextControlsofHani.app */,
+				C22650BB21B65F08004F8532 /* TextControlsofHaniTests.xctest */,
+				C22650C621B65F08004F8532 /* TextControlsofHaniUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C22650A921B65F07004F8532 /* TextControlsofHani */ = {
+			isa = PBXGroup;
+			children = (
+				C22650AA21B65F07004F8532 /* AppDelegate.swift */,
+				C22650AC21B65F07004F8532 /* ViewController.swift */,
+				C22650AE21B65F07004F8532 /* Main.storyboard */,
+				C22650B121B65F08004F8532 /* Assets.xcassets */,
+				C22650B321B65F08004F8532 /* LaunchScreen.storyboard */,
+				C22650B621B65F08004F8532 /* Info.plist */,
+			);
+			path = TextControlsofHani;
+			sourceTree = "<group>";
+		};
+		C22650BE21B65F08004F8532 /* TextControlsofHaniTests */ = {
+			isa = PBXGroup;
+			children = (
+				C22650BF21B65F08004F8532 /* TextControlsofHaniTests.swift */,
+				C22650C121B65F08004F8532 /* Info.plist */,
+			);
+			path = TextControlsofHaniTests;
+			sourceTree = "<group>";
+		};
+		C22650C921B65F08004F8532 /* TextControlsofHaniUITests */ = {
+			isa = PBXGroup;
+			children = (
+				C22650CA21B65F08004F8532 /* TextControlsofHaniUITests.swift */,
+				C22650CC21B65F08004F8532 /* Info.plist */,
+			);
+			path = TextControlsofHaniUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C22650A621B65F07004F8532 /* TextControlsofHani */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C22650CF21B65F08004F8532 /* Build configuration list for PBXNativeTarget "TextControlsofHani" */;
+			buildPhases = (
+				C22650A321B65F07004F8532 /* Sources */,
+				C22650A421B65F07004F8532 /* Frameworks */,
+				C22650A521B65F07004F8532 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TextControlsofHani;
+			productName = TextControlsofHani;
+			productReference = C22650A721B65F07004F8532 /* TextControlsofHani.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C22650BA21B65F08004F8532 /* TextControlsofHaniTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C22650D221B65F08004F8532 /* Build configuration list for PBXNativeTarget "TextControlsofHaniTests" */;
+			buildPhases = (
+				C22650B721B65F08004F8532 /* Sources */,
+				C22650B821B65F08004F8532 /* Frameworks */,
+				C22650B921B65F08004F8532 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C22650BD21B65F08004F8532 /* PBXTargetDependency */,
+			);
+			name = TextControlsofHaniTests;
+			productName = TextControlsofHaniTests;
+			productReference = C22650BB21B65F08004F8532 /* TextControlsofHaniTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		C22650C521B65F08004F8532 /* TextControlsofHaniUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C22650D521B65F08004F8532 /* Build configuration list for PBXNativeTarget "TextControlsofHaniUITests" */;
+			buildPhases = (
+				C22650C221B65F08004F8532 /* Sources */,
+				C22650C321B65F08004F8532 /* Frameworks */,
+				C22650C421B65F08004F8532 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C22650C821B65F08004F8532 /* PBXTargetDependency */,
+			);
+			name = TextControlsofHaniUITests;
+			productName = TextControlsofHaniUITests;
+			productReference = C22650C621B65F08004F8532 /* TextControlsofHaniUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C226509F21B65F07004F8532 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1000;
+				LastUpgradeCheck = 1000;
+				ORGANIZATIONNAME = "iOS Training";
+				TargetAttributes = {
+					C22650A621B65F07004F8532 = {
+						CreatedOnToolsVersion = 10.0;
+					};
+					C22650BA21B65F08004F8532 = {
+						CreatedOnToolsVersion = 10.0;
+						TestTargetID = C22650A621B65F07004F8532;
+					};
+					C22650C521B65F08004F8532 = {
+						CreatedOnToolsVersion = 10.0;
+						TestTargetID = C22650A621B65F07004F8532;
+					};
+				};
+			};
+			buildConfigurationList = C22650A221B65F07004F8532 /* Build configuration list for PBXProject "TextControlsofHani" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C226509E21B65F07004F8532;
+			productRefGroup = C22650A821B65F07004F8532 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C22650A621B65F07004F8532 /* TextControlsofHani */,
+				C22650BA21B65F08004F8532 /* TextControlsofHaniTests */,
+				C22650C521B65F08004F8532 /* TextControlsofHaniUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C22650A521B65F07004F8532 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C22650B521B65F08004F8532 /* LaunchScreen.storyboard in Resources */,
+				C22650B221B65F08004F8532 /* Assets.xcassets in Resources */,
+				C22650B021B65F07004F8532 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C22650B921B65F08004F8532 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C22650C421B65F08004F8532 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C22650A321B65F07004F8532 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C22650AD21B65F07004F8532 /* ViewController.swift in Sources */,
+				C22650AB21B65F07004F8532 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C22650B721B65F08004F8532 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C22650C021B65F08004F8532 /* TextControlsofHaniTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C22650C221B65F08004F8532 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C22650CB21B65F08004F8532 /* TextControlsofHaniUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C22650BD21B65F08004F8532 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C22650A621B65F07004F8532 /* TextControlsofHani */;
+			targetProxy = C22650BC21B65F08004F8532 /* PBXContainerItemProxy */;
+		};
+		C22650C821B65F08004F8532 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C22650A621B65F07004F8532 /* TextControlsofHani */;
+			targetProxy = C22650C721B65F08004F8532 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		C22650AE21B65F07004F8532 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C22650AF21B65F07004F8532 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C22650B321B65F08004F8532 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C22650B421B65F08004F8532 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C22650CD21B65F08004F8532 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C22650CE21B65F08004F8532 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C22650D021B65F08004F8532 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = TextControlsofHani/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = Haritech.TextControlsofHani;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C22650D121B65F08004F8532 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = TextControlsofHani/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = Haritech.TextControlsofHani;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		C22650D321B65F08004F8532 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = TextControlsofHaniTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = Haritech.TextControlsofHaniTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TextControlsofHani.app/TextControlsofHani";
+			};
+			name = Debug;
+		};
+		C22650D421B65F08004F8532 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = TextControlsofHaniTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = Haritech.TextControlsofHaniTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TextControlsofHani.app/TextControlsofHani";
+			};
+			name = Release;
+		};
+		C22650D621B65F08004F8532 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = TextControlsofHaniUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = Haritech.TextControlsofHaniUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TextControlsofHani;
+			};
+			name = Debug;
+		};
+		C22650D721B65F08004F8532 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = TextControlsofHaniUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = Haritech.TextControlsofHaniUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TextControlsofHani;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C22650A221B65F07004F8532 /* Build configuration list for PBXProject "TextControlsofHani" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C22650CD21B65F08004F8532 /* Debug */,
+				C22650CE21B65F08004F8532 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C22650CF21B65F08004F8532 /* Build configuration list for PBXNativeTarget "TextControlsofHani" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C22650D021B65F08004F8532 /* Debug */,
+				C22650D121B65F08004F8532 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C22650D221B65F08004F8532 /* Build configuration list for PBXNativeTarget "TextControlsofHaniTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C22650D321B65F08004F8532 /* Debug */,
+				C22650D421B65F08004F8532 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C22650D521B65F08004F8532 /* Build configuration list for PBXNativeTarget "TextControlsofHaniUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C22650D621B65F08004F8532 /* Debug */,
+				C22650D721B65F08004F8532 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C226509F21B65F07004F8532 /* Project object */;
+}
